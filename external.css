@@ -58,8 +58,8 @@ p {
                 z-index: 1;
             }
             .tri-lrg {
-                border-left: 70px solid transparent;
-                border-right: 70px solid transparent;
+                border-left: 72.5px solid transparent;
+                border-right: 72.5px solid transparent;
                 border-bottom: 150px solid green;
                 right: 50px;
                 z-index: 0;
@@ -70,7 +70,7 @@ p {
                 display: flex;
                 justify-content: space-around;
                 height: 45px;
-                width: 230px;
+                width: 220px;
                 z-index: 1;
             }
                 .people > img {
@@ -140,12 +140,12 @@ p {
         border-bottom: 250px solid rgb(178, 229, 134);
     }
     .tri-lrg {
-        border-left: 175px solid transparent;
-        border-right: 175px solid transparent;
+        border-left: 181.25px solid transparent;
+        border-right: 181.25px solid transparent;
         border-bottom: 375px solid green;
         right: 125px;
     }
-    .people {height: 112.5px; width: 575px;}
+    .people {height: 112.5px; width: 550px;}
     .cir {height: 37.5px; width: 37.5px;}
     .cir-lrg {height: 112.5px; width: 112.5px;}
     .cir1 {top: 5px; left: 50px;}
@@ -169,12 +169,12 @@ p {
         border-bottom: 400px solid rgb(178, 229, 134);
     }
     .tri-lrg {
-        border-left: 280px solid transparent;
-        border-right: 280px solid transparent;
+        border-left: 290px solid transparent;
+        border-right: 290px solid transparent;
         border-bottom: 600px solid green;
         right: 200px;
     }
-    .people {height: 180px; width: 920px;}
+    .people {height: 180px; width: 880px;}
     .cir {height: 60px; width: 60px;}
     .cir-lrg {height: 180px; width: 180px;}
     .cir1 {top: 8px; left: 80px;}
